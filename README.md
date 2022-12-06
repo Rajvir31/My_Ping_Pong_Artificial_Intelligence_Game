@@ -1,1 +1,2 @@
-# PING_PONG_AI
+# NEAT-Pong-Python
+Using the NEAT algorithm to train an AI to play pong in Python!
