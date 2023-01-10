@@ -1,5 +1,5 @@
 # NEAT-Pong-Python
-Using the NEAT algorithm I have developed a game to train an AI to play Ping-pong in Python!
+Using the NEAT algorithm and pygame I have developed a game to train an AI to play Ping-pong in Python!
 On the right side is an Artificial Intelligence Bot which I am playing. I am controlling the left paddle.
 
 
